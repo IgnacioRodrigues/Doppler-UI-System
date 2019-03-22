@@ -200,7 +200,8 @@ input[type="tel"] {
 .error {
   input,
   select,
-  textarea {
+  textarea,
+  .checkmark {
     border: 1px solid $dp-color-red;
   }
 
